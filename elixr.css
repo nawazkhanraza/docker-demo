@@ -1,0 +1,69 @@
+body{
+    margin: 0px;
+}
+.el_home{
+   
+background: linear-gradient( rgba(19, 14, 14, 0.6), rgba(18, 10, 10, 0.6)) ,url(https://theelixrlabs.com/wp-content/uploads/2021/08/elixr-logo.png);
+height: 100vh;
+ background-size: cover;
+
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 45px;
+}
+#bt1{
+    border: 1px solid white;
+    background-color: rgb(17, 11, 11);
+    color: white;
+    border-radius: 2px;
+    padding: 10px 20px;
+    margin-right: 11px;
+    
+}
+#bt2{
+border: 0px;
+background-color: red;
+color: white;
+border-radius: 4px;
+padding: 10px 20px;
+font-size: 15px;
+}
+.intro{
+    color: white;
+    text-align: center;
+    margin-top: 120px;
+}
+.intro h1{
+    font-size: 44px;
+    margin: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.form{
+    display: flex;
+    justify-content: center;
+    
+}
+.form input{
+
+    background-color:white;
+   height: 35px;
+   width: 350px;
+   border: none;
+   padding-top: 10px;
+   padding-bottom: 7px;
+   font-size: 13px;
+  
+}
+.form button {
+     background-color: rgb(210, 99, 19);
+     color: white;
+     border: none;
+     width: 170px;
+     font-size: 19px;
+     padding-top: 5px;
+     border-radius: 2px;
+}
+
